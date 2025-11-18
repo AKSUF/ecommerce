@@ -1,6 +1,6 @@
 # E-Commerce Sales Analytics | ₹347M Revenue Deep Dive (91-Day Indian Fashion Dataset)
 
-**End-to-End SQL Data Modeling & Business Intelligence Project**  
+**End-to-End SQL Data Modeling & Business Intelligence Project**(Please project report)
 540,716 order lines • 72,826 orders • 1,330 SKUs • Multi-channel pricing intelligence (Amazon, Ajio, Myntra, Flipkart)  
 March – June 2022
 
@@ -60,15 +60,10 @@ Converted 8 messy operational tables into a clean, scalable **star schema**:
 - Statistical measures (mean, median, percentiles, standard deviation)
 
 ## 📁 Repository Structure
-├── data/                  # Raw & processed CSVs (optional – respect Kaggle license)
+├── archieve/                  # Raw & processed CSVs (optional – respect Kaggle license)
 ├── sql/
-│   ├── 01_data_profiling.sql
-│   ├── 02_normalization_&star_schema.sql
-│   ├── 03_feature_engineering&cte_queries.sql
-│   ├── 04_key_insights&_recommendations.sql
-│   └── erd_star_schema.png
-├── notebooks/             # Python data profiling (if any)
-├── images/                # ERD + key charts
+├── docs/                   #project report
+├── image/                # ERD + key charts
 └── README.md
 
 ## 🎯 Why This Project Stands Out for Data Analysts
@@ -82,5 +77,5 @@ Perfect addition to any data analyst / business analyst portfolio targeting reta
 ⭐ Star the repo if you found it useful!  
 Feedback welcome — always iterating.
 
-🔗 LinkedIn: [your-linkedin] | More projects: [your-github-profile]
+🔗 LinkedIn: linkedin.com/in/abu-sufian-data | More projects: [will come soon]
 
