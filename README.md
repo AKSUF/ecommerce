@@ -45,7 +45,10 @@ Converted 8 messy operational tables into a clean, scalable **star schema**:
 ### Supplementary Table
 - `sku_stock_clean` (kept separate for inventory-specific analysis)
 
-→ Full **ERD included** in `/images/erd_star_schema.png`
+→ Full **ERD included**
+<p align="center">
+  <img src="image/datamodel.png" alt="Logo" width="900"/>
+</p>
 
 ## 🧪 Advanced Analytical Techniques Applied
 - Pareto & customer concentration analysis
