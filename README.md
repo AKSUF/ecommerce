@@ -1,8 +1,8 @@
 # E-Commerce Sales Analytics | ₹347M Revenue Deep Dive (91-Day Indian Fashion Dataset)
 
-**End-to-End SQL Data Modeling & Business Intelligence Project**(Please project report)
+**End-to-End SQL Data Modeling & Business Intelligence Project**
 540,716 order lines • 72,826 orders • 1,330 SKUs • Multi-channel pricing intelligence (Amazon, Ajio, Myntra, Flipkart)  
-March – June 2022
+March – June 2022 (Please project report)
 
 ## 🚀 Project Objective
 Transform raw operational CSVs into a fully normalized **star schema** using MySQL and deliver actionable insights & recommendations that can drive **10–15% revenue uplift** through:
