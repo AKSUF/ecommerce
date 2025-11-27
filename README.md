@@ -78,6 +78,7 @@ Perfect addition to any data analyst / business analyst portfolio targeting reta
 
 ⭐ Star the repo if you found it useful!  
 Feedback welcome — always iterating.
+To know more please read the project report .It is available in docs and pdf version ,please check it out.
 
 🔗 LinkedIn: linkedin.com/in/abu-sufian-data | More projects: [will come soon]
 
